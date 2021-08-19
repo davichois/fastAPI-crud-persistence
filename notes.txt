@@ -1,0 +1,8 @@
+p= paquete
+v= variable
+a= archivo
+o= operacion
+
+p        v   a   o
+------- --- --- -------
+uvicorn app:app --reload
